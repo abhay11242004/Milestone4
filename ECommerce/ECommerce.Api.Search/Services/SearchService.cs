@@ -9,13 +9,16 @@ namespace ECommerce.Api.Search.Services
     {
         private readonly IOrdersService _ordersService;
         private readonly IProductsService _productsService;
-        public SearchService(IOrdersService orderService, IProductsService productsService)
+        private readonly ICustomersService _customersService;
+        public SearchService(IOrdersService orderService, IProductsService productsService, ICustomersService customersService)
         {
             _ordersService = orderService;
             _productsService = productsService;
+            _customersService = customersService;
         }
         public async Task<(bool IsSuccess, dynamic SearchResults)> SearchAsync(int customerId)
         {
+            var customersResult = await _customersService.GetCustomerAsync(customerId);
             var ordersResult = await _ordersService.GetOrderAsync(customerId);
             var productsResult = await _productsService.GetProductsAsync();
 
@@ -25,11 +28,12 @@ namespace ECommerce.Api.Search.Services
                 {
                     foreach (var item in order.Items)
                     {
-                        item.ProductName = productsResult.Products.FirstOrDefault(p => p.Id == item.ProductId)?.Name;
+                        item.ProductName = productsResult.IsSuccess ?  productsResult.Products.FirstOrDefault(p => p.Id == item.ProductId)?.Name : "Product information is not available";
                     }
                 }
                 var result = new
                 {
+                    Customer = customersResult.IsSuccess ? customersResult.Customer : new { Name = "Customer information is not available"},
                     Orders = ordersResult.Orders
                 };
                 return (true, result);
