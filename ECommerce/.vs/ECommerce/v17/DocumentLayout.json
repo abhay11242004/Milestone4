@@ -7,8 +7,24 @@
       "RelativeMoniker": "D:0:0:{056576E3-D7DF-409E-A3B1-3207EF11B29D}|ECommerce.Api.Products\\ECommerce.Api.Products.csproj|solutionrelative:ecommerce.api.products\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{056576E3-D7DF-409E-A3B1-3207EF11B29D}|ECommerce.Api.Products\\ECommerce.Api.Products.csproj|c:\\users\\abhay\\milestone4\\ecommerce\\ecommerce.api.products\\profiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056576E3-D7DF-409E-A3B1-3207EF11B29D}|ECommerce.Api.Products\\ECommerce.Api.Products.csproj|solutionrelative:ecommerce.api.products\\profiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056576E3-D7DF-409E-A3B1-3207EF11B29D}|ECommerce.Api.Products\\ECommerce.Api.Products.csproj|c:\\users\\abhay\\milestone4\\ecommerce\\ecommerce.api.products\\providers\\productsprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056576E3-D7DF-409E-A3B1-3207EF11B29D}|ECommerce.Api.Products\\ECommerce.Api.Products.csproj|solutionrelative:ecommerce.api.products\\providers\\productsprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{056576E3-D7DF-409E-A3B1-3207EF11B29D}|ECommerce.Api.Products\\ECommerce.Api.Products.csproj|c:\\users\\abhay\\milestone4\\ecommerce\\ecommerce.api.products\\db\\productsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{056576E3-D7DF-409E-A3B1-3207EF11B29D}|ECommerce.Api.Products\\ECommerce.Api.Products.csproj|solutionrelative:ecommerce.api.products\\db\\productsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056576E3-D7DF-409E-A3B1-3207EF11B29D}|ECommerce.Api.Products\\ECommerce.Api.Products.csproj|c:\\users\\abhay\\milestone4\\ecommerce\\ecommerce.api.products\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056576E3-D7DF-409E-A3B1-3207EF11B29D}|ECommerce.Api.Products\\ECommerce.Api.Products.csproj|solutionrelative:ecommerce.api.products\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056576E3-D7DF-409E-A3B1-3207EF11B29D}|ECommerce.Api.Products\\ECommerce.Api.Products.csproj|c:\\users\\abhay\\milestone4\\ecommerce\\ecommerce.api.products\\interfaces\\iproductsprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056576E3-D7DF-409E-A3B1-3207EF11B29D}|ECommerce.Api.Products\\ECommerce.Api.Products.csproj|solutionrelative:ecommerce.api.products\\interfaces\\iproductsprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{056576E3-D7DF-409E-A3B1-3207EF11B29D}|ECommerce.Api.Products\\ECommerce.Api.Products.csproj|c:\\users\\abhay\\milestone4\\ecommerce\\ecommerce.api.products\\db\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,11 +38,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "C:\\Users\\abhay\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Profiles\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "ECommerce.Api.Products\\Profiles\\ProductProfile.cs",
+              "ToolTip": "C:\\Users\\abhay\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Profiles\\ProductProfile.cs",
+              "RelativeToolTip": "ECommerce.Api.Products\\Profiles\\ProductProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T00:42:48.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsProvider.cs",
+              "DocumentMoniker": "C:\\Users\\abhay\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Providers\\ProductsProvider.cs",
+              "RelativeDocumentMoniker": "ECommerce.Api.Products\\Providers\\ProductsProvider.cs",
+              "ToolTip": "C:\\Users\\abhay\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Providers\\ProductsProvider.cs",
+              "RelativeToolTip": "ECommerce.Api.Products\\Providers\\ProductsProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T00:32:31.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductsProvider.cs",
+              "DocumentMoniker": "C:\\Users\\abhay\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Interfaces\\IProductsProvider.cs",
+              "RelativeDocumentMoniker": "ECommerce.Api.Products\\Interfaces\\IProductsProvider.cs",
+              "ToolTip": "C:\\Users\\abhay\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Interfaces\\IProductsProvider.cs",
+              "RelativeToolTip": "ECommerce.Api.Products\\Interfaces\\IProductsProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T00:30:21.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\abhay\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ECommerce.Api.Products\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\abhay\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Models\\Product.cs",
+              "RelativeToolTip": "ECommerce.Api.Products\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T00:29:18.294Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -36,14 +100,14 @@
               "RelativeDocumentMoniker": "ECommerce.Api.Products\\Startup.cs",
               "ToolTip": "C:\\Users\\abhay\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Startup.cs",
               "RelativeToolTip": "ECommerce.Api.Products\\Startup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABdAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T00:23:17.524Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\abhay\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Db\\Product.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Products\\Db\\Product.cs",
@@ -56,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ProductsDbContext.cs",
               "DocumentMoniker": "C:\\Users\\abhay\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Db\\ProductsDbContext.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Products\\Db\\ProductsDbContext.cs",
