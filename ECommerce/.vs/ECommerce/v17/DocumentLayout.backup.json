@@ -1,12 +1,71 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\abhay\\Downloads\\Milestone_4_2024\\ECommerce\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\abhay\\Milestone4\\ECommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{056576E3-D7DF-409E-A3B1-3207EF11B29D}|ECommerce.Api.Products\\ECommerce.Api.Products.csproj|c:\\users\\abhay\\milestone4\\ecommerce\\ecommerce.api.products\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056576E3-D7DF-409E-A3B1-3207EF11B29D}|ECommerce.Api.Products\\ECommerce.Api.Products.csproj|solutionrelative:ecommerce.api.products\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056576E3-D7DF-409E-A3B1-3207EF11B29D}|ECommerce.Api.Products\\ECommerce.Api.Products.csproj|c:\\users\\abhay\\milestone4\\ecommerce\\ecommerce.api.products\\db\\productsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056576E3-D7DF-409E-A3B1-3207EF11B29D}|ECommerce.Api.Products\\ECommerce.Api.Products.csproj|solutionrelative:ecommerce.api.products\\db\\productsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056576E3-D7DF-409E-A3B1-3207EF11B29D}|ECommerce.Api.Products\\ECommerce.Api.Products.csproj|c:\\users\\abhay\\milestone4\\ecommerce\\ecommerce.api.products\\db\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056576E3-D7DF-409E-A3B1-3207EF11B29D}|ECommerce.Api.Products\\ECommerce.Api.Products.csproj|solutionrelative:ecommerce.api.products\\db\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\abhay\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Startup.cs",
+              "RelativeDocumentMoniker": "ECommerce.Api.Products\\Startup.cs",
+              "ToolTip": "C:\\Users\\abhay\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Startup.cs",
+              "RelativeToolTip": "ECommerce.Api.Products\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T00:23:17.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\abhay\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Db\\Product.cs",
+              "RelativeDocumentMoniker": "ECommerce.Api.Products\\Db\\Product.cs",
+              "ToolTip": "C:\\Users\\abhay\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Db\\Product.cs",
+              "RelativeToolTip": "ECommerce.Api.Products\\Db\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T00:21:39.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\abhay\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Db\\ProductsDbContext.cs",
+              "RelativeDocumentMoniker": "ECommerce.Api.Products\\Db\\ProductsDbContext.cs",
+              "ToolTip": "C:\\Users\\abhay\\Milestone4\\ECommerce\\ECommerce.Api.Products\\Db\\ProductsDbContext.cs",
+              "RelativeToolTip": "ECommerce.Api.Products\\Db\\ProductsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T00:21:06.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
