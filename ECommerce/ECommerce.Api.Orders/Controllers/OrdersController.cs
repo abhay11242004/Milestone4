@@ -4,6 +4,14 @@ using System.Threading.Tasks;
 
 namespace ECommerce.Api.Orders.Controllers
 {
+/*Course: 		Web Programming 3
+* Assessment: 	Milestone 4
+* Created by: 	Abhay Patel - 2261385
+* Date: 		30 November 2024
+* Class Name: 	OrdersController.cs
+* Description: 	Manages request for getting orders for a specific customer with the customerId 
+* Time for Task:	4 hours
+*/
     [ApiController]
     [Route("api/orders")]
     public class OrdersController : ControllerBase
